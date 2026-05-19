@@ -1,0 +1,6 @@
+# 与 AerLevels 使用相同的数据库
+database:
+  address: "127.0.0.1:3306"
+  database: "minecraft"
+  username: "root"
+  password: ""
